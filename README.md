@@ -1,9 +1,9 @@
 ---
 # theme: gaia
 # _class: lead
-paginate: true
+# paginate: true
 # backgroundColor: #fff
-backgroundImage: url('https://marp.app/assets/hero-background.svg')
+# backgroundImage: url('https://marp.app/assets/hero-background.svg')
 ---
 
 ![bg left](https://source.unsplash.com/random/?rocket)
