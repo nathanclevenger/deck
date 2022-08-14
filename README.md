@@ -16,3 +16,7 @@ Title
 - Dog
 - Cat
 - Frog
+
+---
+
+![](img/airplane.gif)
