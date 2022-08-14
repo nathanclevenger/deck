@@ -19,4 +19,4 @@ Title
 
 ---
 
-![](img/airplane.gif)
+![](img/rocket.gif)
